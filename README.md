@@ -1,0 +1,1 @@
+Nextjs_Dictionary_app
