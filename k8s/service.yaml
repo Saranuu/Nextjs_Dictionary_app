@@ -4,7 +4,8 @@ metadata:
   name: my-service
 spec:
   selector:
-    app.kubernetes.io/name: dictionary
+    matchLabels:
+      app: dictionary
   ports:
     - protocol: TCP
       port: 3000
