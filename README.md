@@ -51,6 +51,6 @@ kubectl apply -f service.yaml
 
 ## 4. Access the deployed application
 Go to a browser and access the application
-<publicip>:3000
+{public-ip}:3000
 
 
